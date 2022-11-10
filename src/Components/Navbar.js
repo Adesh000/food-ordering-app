@@ -1,6 +1,5 @@
 import React from "react";
 import logo from "../Images/lastminutedeals.png";
-import { FaUserCircle } from "react-icons/fa";
 
 const Navbar = () => {
     return (
