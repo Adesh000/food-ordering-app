@@ -1,0 +1,68 @@
+const Menu = [
+    {
+        id: 1,
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcM38XlxXvVVM6TZ7W2qMzORxmCAfaQJStLSElAJskyDdQeIMdTG90_AYNbI1s3HIVqpo&usqp=CAU",
+        name: "Shahi Paneer",
+        category: "Lunch",
+        price: "200",
+        description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    },
+    {
+        id: 2,
+        image: "https://images.pexels.com/photos/2474658/pexels-photo-2474658.jpeg?auto=compress&cs=tinysrgb&w=600",
+        name: "Samosa",
+        category: "Fastfood",
+        price: "20",
+        description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    },
+    {
+        id: 3,
+        image: "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&w=600",
+        name: "Paratha",
+        category: "Break Fast",
+        price: "40",
+        description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    },
+    {
+        id: 4,
+        image: "https://images.pexels.com/photos/954677/pexels-photo-954677.jpeg?auto=compress&cs=tinysrgb&w=600",
+        name: "Biryani",
+        category: "Lunch",
+        price: "180",
+        description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    },
+    {
+        id: 5,
+        image: "https://images.pexels.com/photos/209540/pexels-photo-209540.jpeg?auto=compress&cs=tinysrgb&w=600",
+        name: "Dal",
+        category: "Dinner",
+        price: "120",
+        description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    },
+    {
+        id: 6,
+        image: "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg?auto=compress&cs=tinysrgb&w=600",
+        name: "Pasta",
+        category: "Fastfood",
+        price: "60",
+        description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    },
+    {
+        id: 7,
+        image: "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?auto=compress&cs=tinysrgb&w=600",
+        name: "Sandwich",
+        category: "Lunch",
+        price: "50",
+        description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    },
+    {
+        id: 8,
+        image: "https://images.pexels.com/photos/718742/pexels-photo-718742.jpeg?auto=compress&cs=tinysrgb&w=600",
+        name: "Rasgulla",
+        category: "Desserts",
+        price: "30",
+        description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+    },
+];
+
+export default Menu;
